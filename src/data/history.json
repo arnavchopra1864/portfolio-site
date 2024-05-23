@@ -1,6 +1,16 @@
 [
   {
     "role": "Engineer",
+    "organisation": "Shaanti",
+    "startDate": "May 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed a chatbot to help users understand Ayurvedic principles"
+    ],
+    "imageSrc": "history/shaanti.png"
+  },
+  {
+    "role": "Engineer",
     "organisation": "MemARy Labs",
     "startDate": "Jan 2024",
     "endDate": "Present",
@@ -14,16 +24,5 @@
     "endDate": "Apr 2024",
     "experiences": ["Built a CNN to determine whether or not a user has melanoma"],
     "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
   }
 ]
