@@ -1,0 +1,20 @@
+:root {
+    /* other colors to try:
+     *  Light Teal: #66CDAA
+     *  Medium Teal: #008080
+     *  Bright Teal: #00CED1
+     *  Soft Teal: #20B2AA
+     *  Deep Teal: #008B8B
+     */
+
+
+  --color-text: #fff;
+  --color-text-emphasis: #FF7F50;
+  --color-text-detail: #a7a7a7;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #15263d;
+  
+  --font-roboto: "Roboto";
+}

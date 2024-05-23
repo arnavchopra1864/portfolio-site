@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Engineer",
+    "organisation": "MemARy Labs",
+    "startDate": "Jan 2024",
+    "endDate": "Present",
+    "experiences": ["Implemented LLM-powered query decomposition using LangChain (this is for the multiprocessor version, which is under development)", "Built routing agent capabilities to select appropriate tool for each query with Llama-Index (also for multiprocessor)", "Peaked at 17th on YCombinator's Trending tab!", "Currently working on efficient UI for model selection through ollama"],
+    "imageSrc": "history/memary.png"
+  },
+  {
+    "role": "ML Engineer",
+    "organisation": "Dermetric",
+    "startDate": "Jan 2024",
+    "endDate": "Apr 2024",
+    "experiences": ["Built a CNN to determine whether or not a user has melanoma"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
